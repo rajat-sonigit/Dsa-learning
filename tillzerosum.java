@@ -11,7 +11,7 @@ public class tillzerosum {
         while (true) {
             number = sc.nextInt();
             if (number == 0) { 
-                break; // Exit the loop
+                break; 
             }
             if (number > largest) {
                 largest = number;
