@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class tillzerosum {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int largest = 0; // To store the sum of numbers
+        int largest = 0;
         int number; // To store the current input number
         
         System.out.println("Enter numbers to add to the sum (enter 0 to stop):");
