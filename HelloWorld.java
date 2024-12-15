@@ -4,7 +4,7 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("enter a number ");
         Scanner scanner = new Scanner(System.in);
-        int a = scanner.nextInt()
+        int a = scanner.nextInt();
         while (a > 0 ) {
             int rem = a%10;
             
