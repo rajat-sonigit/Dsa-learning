@@ -9,7 +9,7 @@ public class tillzerosum {
         System.out.println("Enter numbers to add to the sum (enter 0 to stop):");
         
         while (true) {
-            number = sc.nextInt(); // Take input from the user
+            number = sc.nextInt();
             if (number == 0) { // Check if the user entered 0
                 break; // Exit the loop
             }
