@@ -20,6 +20,6 @@ public class tillzerosum {
         }
         
         System.out.println("The sum of all numbers is: " + largest);
-        sc.close(); // Close the scanner
+        sc.close(); 
     }
 }
