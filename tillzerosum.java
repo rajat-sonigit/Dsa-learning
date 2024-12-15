@@ -10,7 +10,7 @@ public class tillzerosum {
         
         while (true) {
             number = sc.nextInt();
-            if (number == 0) { // Check if the user entered 0
+            if (number == 0) { 
                 break; // Exit the loop
             }
             if (number > largest) {
