@@ -16,7 +16,7 @@ public class tillzerosum {
             if (number > largest) {
                 largest = number;
             }
-            // Add the number to the sum
+            
         }
         
         System.out.println("The sum of all numbers is: " + largest);
