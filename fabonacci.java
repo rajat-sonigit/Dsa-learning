@@ -6,7 +6,6 @@ public class fabonacci {
         int a = scanner.nextInt();
         int b = 0 ;
         int c = 1 ;
-        
         System.out.print(b+" "+c);
         for(int i = 0 ; i< a-2 ; i++){
           int d  = b+c;
