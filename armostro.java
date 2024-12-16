@@ -12,6 +12,7 @@ public class armostro {
          cubesum = cubesum + b*b*b;
          a = a/10;        
         }
+        
         System.out.println(cubesum);
        if (number == cubesum) {
         System.out.println("its an amrostry number");
