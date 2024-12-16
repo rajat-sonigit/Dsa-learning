@@ -29,6 +29,6 @@ public class Switchcases {
             default:
             System.out.println("correct enter week");
                 break;
-        }
+     }
     }
 }
