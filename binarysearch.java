@@ -21,7 +21,6 @@ System.out.println(so);
      return binarystart(arr, target, start, end);
     }
    
-    
     static int binarystart(int []arr, int target,int start , int end ){
      while (start< end) {
         int mid = start +  (end -start)/2;
