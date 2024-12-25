@@ -37,8 +37,6 @@ System.out.println(so);
 }
 
 
-
-
 // int [] ans = {-1,-1};
 // int start = binarystart(arr, target, true);
 // int end = binarystart(arr, target, false);
