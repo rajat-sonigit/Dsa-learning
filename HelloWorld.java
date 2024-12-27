@@ -11,7 +11,6 @@ public class HelloWorld {
             a = a/10;
             System.out.println(rem);
         }
-        
     } 
 }
 
