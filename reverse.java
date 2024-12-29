@@ -9,7 +9,6 @@ public class reverse {
             b = number%10;
             number = number/10;
             System.err.print(b);
-         
         }
         sc.close();
     }
